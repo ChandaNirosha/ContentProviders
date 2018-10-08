@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">ContentResolver1</string>
+    <string name="title_activity_recycler_view">RecyclerView</string>
+</resources>
